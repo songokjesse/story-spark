@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Story Spark",
-  description: "App to generate children's bedtime stories using OpenAI's GPT-4o-mini model.ß",
+  title: "MummaTales",
+  description: "voice-narrated, mobile-first, bedtime stories for families, kids, and caregivers",
 };
 
 export default function RootLayout({
