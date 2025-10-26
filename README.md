@@ -2,7 +2,7 @@
 
 “Type a few words and watch an AI spin a gentle bedtime story — complete with soothing voice narration.”
 
-![Story Spark Screenshot](https://via.placeholder.com/800x400?text=Story+Spark+App+Preview)
+<!-- ![Story Spark Screenshot](https://via.placeholder.com/800x400?text=Story+Spark+App+Preview) -->
 
 ---
 
