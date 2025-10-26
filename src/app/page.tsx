@@ -77,7 +77,7 @@ export default function StorySpark() {
           transition={{ duration: 0.4 }}
           className="text-4xl font-bold mb-4 text-pink-700"
         >
-          🌙 Story Spark
+          🌙 Mumma Tales
         </motion.h1>
 
         <p className="text-gray-700 mb-6">
